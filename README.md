@@ -1,4 +1,4 @@
-# 🌦️ Full-Stack Weather Forecast Application
+# 🌦️ Weather Forecast Application
 
 The Weather Forecast Application is a dynamic and visually engaging full-stack web application designed to deliver real-time and forecasted weather data using multiple third-party APIs. Built using the MERN architecture (MongoDB not used in this case, but Express + React), it showcases practical integration of RESTful APIs, user interface engineering, and efficient state management. The project is a robust demonstration of front-end UI/UX skills along with backend API orchestration.
 
